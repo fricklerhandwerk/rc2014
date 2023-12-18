@@ -1,5 +1,29 @@
 {
   "pins": {
+    "TL866": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "radiomanV",
+        "repo": "TL866"
+      },
+      "branch": "master",
+      "revision": "7d9a3c601e602c082f5bd60319e19817d60d553e",
+      "url": "https://github.com/radiomanV/TL866/archive/7d9a3c601e602c082f5bd60319e19817d60d553e.tar.gz",
+      "hash": "12mlwlhzw5hz5qcf3h7v02pc2ikpfckq2bjs5hj8fhjd11ska66n"
+    },
+    "erosanix": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "emmanuelrosa",
+        "repo": "erosanix"
+      },
+      "branch": "master",
+      "revision": "d68f5ad02accc47015666a3a6a59cf52f5258a4d",
+      "url": "https://github.com/emmanuelrosa/erosanix/archive/d68f5ad02accc47015666a3a6a59cf52f5258a4d.tar.gz",
+      "hash": "1aqxzgprdfqlsmwzp3hg20bb2nscb1kgr0rb2rfb8di5lmlah016"
+    },
     "nixpkgs": {
       "type": "Git",
       "repository": {
