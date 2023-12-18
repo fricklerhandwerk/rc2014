@@ -35,3 +35,7 @@ Power on the RC2014, and press the reset button.
 It will boot from the ROM as set by the [page selection jumpers](https://rc2014.co.uk/?s=rom+labels).
 
 Follow the instructions on the terminal to do things.
+
+## Burning ROMs
+
+Connect a [TL866II plus](http://autoelectric.cn/EN/TL866_main.html) to your USB port and run `xgpro` to start the Wine application.
