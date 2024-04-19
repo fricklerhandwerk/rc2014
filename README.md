@@ -8,12 +8,16 @@
   Enter the Nix shell with
 
   ```console
-  nix-shell --run $SHELL
+  nix-shell https://github.com/fricklerhandwerk/rc2014/tarball/master --run $SHELL
   ```
 
-  or set up [`direnv`](https://github.com/nix-community/nix-direnv) and call
+  This will take a while, add `-v` to observe what happens.
+
+  Alternatively, clone this repository, set up [`direnv`](https://github.com/nix-community/nix-direnv) and call
 
   ```console
+  git clone https://github.com/fricklerhandwerk
+  cd rc2014
   direnv allow
   ```
 
