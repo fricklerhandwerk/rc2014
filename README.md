@@ -39,3 +39,12 @@ Follow the instructions on the terminal to do things.
 ## Burning ROMs
 
 Connect a [TL866II plus](http://autoelectric.cn/EN/TL866_main.html) to your USB port and run `xgpro` to start the Wine application.
+
+- Press `Select IC` (top left), a window opens.
+- Select `ATMEL` in the center column.
+- Select`AT28C64B` in the right column.
+
+In the button bar at the top:
+- Press `READ` to read ROM contents.
+- Press `LOAD` to load a ROM file.
+- Press `PROG.` to write the loaded file to the ROM.
