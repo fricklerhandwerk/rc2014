@@ -42,7 +42,7 @@ Follow the instructions on the terminal to do things.
 
 ## Burning ROMs
 
-Connect a [TL866II plus](http://autoelectric.cn/EN/TL866_main.html) to your USB port and run `xgpro` to start the Wine application.
+Connect a [XGecu Pro TL866II plus](http://autoelectric.cn/EN/TL866_main.html) to your USB port and run `xgpro` to start the Wine application.
 
 - Press `Select IC` (top left), a window opens.
 - Select `ATMEL` in the center column.
